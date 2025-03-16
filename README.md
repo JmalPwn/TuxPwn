@@ -8,8 +8,4 @@
     🌱 Aprendiendo: Desarrollo de exploits, análisis , servidores linux y programación en C, Python y Bash.
     💞️ Colaborando en: Proyectos de ciberseguridad, herramientas de hacking ético y optimización de sistemas Linux.
     📫 Contáctame: [Proximo]
-    ⚡ Dato curioso: Mi sistema siempre está en Tiling Mode + Dark Mode (No suelo dormir).                                                                            
-<!---
-JmalPwn/JmalPwn es espaecial para mi me encanta linux y busco entenderlo un poco mejor 
-para eso cree este repositorio espero les funcione;))
---->
+    ⚡ Dato curioso: Mi sistema siempre está en Tiling Mode + Dark Mode (No suelo dormir).
